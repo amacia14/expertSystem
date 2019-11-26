@@ -1,24 +1,8 @@
-/*
-Players:
-zidane, ronaldinho, zlatan, messi, suarez, diego forlan, tierry,
-*/
-/*
-interface for user
-prompting to begin
-*/
+
 write("Welcom to the Expert System about Soccer legends!")
 write("I'm going to ask questions about some of the best soccer players in the world")
 write("Respond to the answers by entering Yes or No")
 write("Ready?")
-/*
-:- dynamic nationality/1.
-:- dynamic firstName/1
-:-dynamic hairstyle/1
-
-is_nationality(Type):-
-  ( nationality(type
-
-  */
 
 go:- legends(Player),
     write('you picked: '),
